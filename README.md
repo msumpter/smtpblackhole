@@ -6,6 +6,8 @@ It's handy for development, as you can do some basic integration testing without
 
 This is based on the postfix image by [https://github.com/catatnight/docker-postfix](https://github.com/catatnight/docker-postfix)
 
+The postfix blackhole example config was taken from [https://www.vanimpe.eu/2012/04/03/run-postfix-as-a-blackhole-mail-server-open-relay/](https://www.vanimpe.eu/2012/04/03/run-postfix-as-a-blackhole-mail-server-open-relay/).
+
 Running 
 ============================
 
